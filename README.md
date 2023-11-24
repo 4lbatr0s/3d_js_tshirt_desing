@@ -12,7 +12,7 @@ https://3d-js-tshirt-desing.vercel.app/
 
 Welcome to the 3D TSHIRT, a cutting-edge full-stack application that allows users to create real-time T-shirt designs on a 3D T-shirt model. This application integrates various technologies such as React, Express.js, Three.js, Framer Motion, Valtio, and more to provide a seamless and interactive user experience.
 
-![3D TSHIRT](client\public\studio.png)
+![3D TSHIRT](https://github.com/4lbatr0s/3d_js_tshirt_desing/client/public/studio.png)
 
 ## Features
 
@@ -33,7 +33,6 @@ Welcome to the 3D TSHIRT, a cutting-edge full-stack application that allows user
 
 - **Backend:**
   - Express.js
-  - MongoDB with Mongoose
   - Cloudinary for image storage
   - OpenAI API for AI prompt integration
 
